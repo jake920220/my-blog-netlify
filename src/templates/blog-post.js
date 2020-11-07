@@ -34,7 +34,7 @@ export default ({ data, pageContext, location }) => {
     <Layout location={location} title={title}>
       <Head title={postTitle} description={post.excerpt} />
       <PostTitle title={postTitle} />
-      <PostDate date={date} />
+      <PostDate date={new Date(date).toLocaleDateString()} />
       <PostContainer html={post.html} />
       <SocialShare title={postTitle} author={author} />
       {!!sponsor.buyMeACoffeeId && (
