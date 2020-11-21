@@ -1,7 +1,7 @@
 ---
 title: 'Gatsby & Netlify로 블로그를 배포하며'
 date: '2020-11-07 16:06:00'
-category: 'retrospective'
+category: 'essay'
 draft: false
 ---
 
