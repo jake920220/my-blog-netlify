@@ -6798,6 +6798,11 @@ gatsby-plugin-google-analytics@^2.0.17:
     "@babel/runtime" "^7.11.2"
     minimatch "3.0.4"
 
+gatsby-plugin-gtag@^1.0.13:
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-gtag/-/gatsby-plugin-gtag-1.0.13.tgz#ffa08a728ba1cfe33090e52764d014a025a5d35a"
+  integrity sha512-Oul6O67klajrEjkkF1diD228SmyUWsAwTq/1tYq41vBwmyNiPk4dhk8K93rrNQ5d5zesSv+awBeGBa503tQqGw==
+
 gatsby-plugin-lodash@^3.0.5:
   version "3.3.13"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-lodash/-/gatsby-plugin-lodash-3.3.13.tgz#9c59d86528416d6fbdb596185f7ae7012e9ca01c"
