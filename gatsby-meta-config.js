@@ -1,7 +1,7 @@
 module.exports = {
-  title: `Lino's Blog`,
-  description: `Blog posted about ...`,
-  author: `Lino`,
+  title: `blog-lino.dev`,
+  description: `프론트엔드 개발자 김준현(Lino)의 개발 블로그입니다.`,
+  author: `Junhyun Kim`,
   introduction: `부족함없는 개발자가 되고 싶은 아직은 부족한 개발자`,
   siteUrl: `https://blog-lino.dev`, // Your blog site url
   social: {
@@ -26,5 +26,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: 'G-YDX7JJD5M5', // Add your google analytics tranking ID
+  ga: '', // Add your google analytics tranking ID G-YDX7JJD5M5
 }
