@@ -4,6 +4,7 @@ module.exports = {
   author: `Junhyun Kim`,
   introduction: `부족함없는 개발자가 되고 싶은 아직은 부족한 개발자`,
   siteUrl: `https://blog-lino.dev`, // Your blog site url
+  naverSiteVerification: `335c2fb87ccff7d8249f5f9d59a2564a0bae112b`,
   social: {
     twitter: ``, // Your Twitter account
     github: `jake920220`, // Your GitHub account
