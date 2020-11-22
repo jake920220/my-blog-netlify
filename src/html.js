@@ -12,6 +12,7 @@ export default class HTML extends React.Component {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover"
           />
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-YDX7JJD5M5"></script>
           {this.props.headComponents}
         </head>
         <body {...this.props.bodyAttributes}>
