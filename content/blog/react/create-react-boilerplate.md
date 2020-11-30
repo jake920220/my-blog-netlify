@@ -7,7 +7,7 @@ draft: false
 
 ![react logo image](./images/react-logo-min.png)
 
-내가 신입이던 시절, 당시 회사에서는 Core 라고 부르는 자체 개발한 NodeJS와 AngularJS를 사용한 MEAN stack Boilerplate 프로젝트가 존재했다. 
+내가 신입이던 시절, 당시 회사에서는 Core 라고 부르는 NodeJS와 AngularJS를 사용해서 자체 개발한 MEAN stack Boilerplate 프로젝트가 존재했다. 
 
 그 회사에서는 유독 외주개발을 많이 했는데, 신입이 Core를 클론 떠서 필요한 부분만 손보면 서버와 클라이언트가 다 돌아갈 정도로 훌륭하게 설계되어 있던 보일러플레이트였다. 그들은 프레임워크라고 불렀는데, 요즘의 NestJS같이 당시로서도 갖출 건 다 갖췄으니 꽤 자랑스러울만한 프레임워크였다.
 
