@@ -1,5 +1,5 @@
 module.exports = {
-  title: `Lino's 블로그`,
+  title: `Lino's 기술블로그`,
   description: `프론트엔드 개발자 김준현(Lino)의 개발 블로그입니다.`,
   author: `Junhyun Kim`,
   introduction: `부족함없는 개발자가 되고 싶은 아직은 부족한 개발자`,
