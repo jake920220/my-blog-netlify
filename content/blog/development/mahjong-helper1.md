@@ -2,7 +2,7 @@
 title: '마작 헬퍼 개발기 (1편)'
 date: '2023-01-04 03:17:00'
 category: 'development'
-draft: false
+draft: true
 ---
 
 
