@@ -1,12 +1,12 @@
 ---
-title: 개츠비 구글 애널리틱스 플러그인 GA4 이슈 해결
+title: 리액트 네이티브 카카오 공유하기 API 연동
 date: 2023-04-15 02:13:69
 category: react-native
 thumbnail: { thumbnailSrc }
-draft: false
+draft: true
 ---
 
-이번 포스팅은 블로그가 Google Analytics(이하 GA)에 측정되지 않아 삽질을 하며 트러블슈팅하는 과정을 정리했다.
+이번에 회사에서 리액트 네이티브 프로젝트를 하나 맡게 되었고 여러 기능들 중 카카오 공유하기를 연동했던 것을 포스팅 해보려 한다.
 
 ![google analytics image](./images/ga.png)
 
@@ -19,6 +19,7 @@ draft: false
 <br>
 
 ![angry image](./images/very_angry.jpg)
+
 > 이게 뭐야 왜 내가 할때만 이래 나만 운없어
 
 <br>
@@ -36,6 +37,7 @@ trackingID부분에 measurementID를 넣어주고 블로그를 업데이트 한 
 <br>
 
 ![my blog ga image](./images/blog_analytics.png)
+
 > 정상적으로 트래킹이 되기 시작하는 구글 애널리틱스
 
 <br>
