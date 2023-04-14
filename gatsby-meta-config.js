@@ -2,7 +2,7 @@ module.exports = {
   title: `Lino's 기술블로그`,
   description: `프론트엔드 개발자 김준현(Lino)의 개발 블로그입니다.`,
   author: `Junhyun Kim`,
-  introduction: `부족함없는 개발자가 되고 싶은 아직은 부족한 개발자`,
+  introduction: `언제나 왜 Why를 명확하게, 마작을 좋아하는 개발자`,
   siteUrl: `https://blog-lino.dev`, // Your blog site url
   naverSiteVerification: `335c2fb87ccff7d8249f5f9d59a2564a0bae112b`,
   social: {
@@ -13,7 +13,7 @@ module.exports = {
     linkedin: ``, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
-  keywords: [`blog, lino`],
+  keywords: [`blog, lino, frontend, 프론트엔드, 개발자`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
     utterances: 'jake920220/my-blog-netlify', // Your repository for archive comment
