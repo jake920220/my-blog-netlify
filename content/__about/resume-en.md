@@ -11,11 +11,9 @@
 
 - 🔭 하루하루 작성하려고 노력하고 있어요 [TIL](https://github.com/jake920220/TIL)
 
+- 📄 꾸준히 포스팅 하는 [BLOG](https://blog-lino.dev/)
+
 - 🌱 요즘 열심히 공부하고 있어요 **React Native, Typescript, etc..**
-
-- 📄 꾸준히 포스팅 하는 블로그 [BLOG](https://blog-lino.dev/)
-
-- 📝 꾸준히 포스팅하는 나의 블로그 [https://blog-lino.dev/](https://blog-lino.dev/)
 
 - 💬 이것은 자신 있어요 **Javascript, React, HTML5, CSS3**
 

@@ -12,7 +12,7 @@ module.exports = {
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
   },
-  icon: `content/assets/felog.png`, // Add your favicon
+  icon: `content/assets/favi.ico`, // Add your favicon
   keywords: [`blog, lino, frontend, 프론트엔드, 개발자`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
