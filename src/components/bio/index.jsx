@@ -7,7 +7,7 @@ import './index.scss'
 export const Bio = () => (
   <StaticQuery
     query={bioQuery}
-    render={data => {
+    render={(data) => {
       const { author, social, introduction } = data.site.siteMetadata
 
       return (
@@ -24,7 +24,11 @@ export const Bio = () => (
               />
               <div className="author-name">
                 <span className="author-name-prefix">Written by</span>
-                <Link to={'https://jake920220.github.io/profile/'} target="_blank" className="author-name-content">
+                <Link
+                  to={'/about'}
+                  target="_blank"
+                  className="author-name-content"
+                >
                   <span>@{author}</span>
                 </Link>
                 <div className="author-introduction">{introduction}</div>

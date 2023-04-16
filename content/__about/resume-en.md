@@ -9,12 +9,6 @@ lang: 'en'
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jake920220&label=Profile%20views&color=0e75b6&style=flat" alt="jake920220" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jake920220" alt="jake920220" /></a> </p>
-
-<br>
-
 - 🔭 하루하루 작성하려고 노력하고 있어요 [TIL](https://github.com/jake920220/TIL)
 
 - 📄 꾸준히 포스팅 하는 [BLOG](https://blog-lino.dev/)
@@ -43,10 +37,7 @@ lang: 'en'
 
 <br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/linokim220"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="linokim220" /></a></p><br><br>
-
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jake920220" alt="jake920220" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jake920220&show_icons=true&locale=en&layout=compact" alt="jake920220" /></p>
 
