@@ -3,13 +3,14 @@ import { graphql } from 'gatsby'
 
 import { rhythm } from '../utils/typography'
 import * as Lang from '../constants'
+import resume from '../../content/__about/resume_en.html'
 
 export default ({ data }) => {
-  const resumes = data.allMarkdownRemark.edges
+  // const resumes = data.allMarkdownRemark.edges
 
-  const resume = resumes
-    .filter(({ node }) => node.frontmatter.lang === Lang.ENGLISH)
-    .map(({ node }) => node)[0]
+  // const resume = resumes
+  //   .filter(({ node }) => node.frontmatter.lang === Lang.ENGLISH)
+  //   .map(({ node }) => node)[0]
 
   return (
     <div
@@ -22,7 +23,7 @@ export default ({ data }) => {
         )}`,
       }}
     >
-      <div dangerouslySetInnerHTML={{ __html: resume.html }} />
+      <div dangerouslySetInnerHTML={{ __html: resume }} />
     </div>
   )
 }
