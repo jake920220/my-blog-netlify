@@ -10,7 +10,7 @@ module.exports = {
     github: `jake920220`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
+    linkedin: `linokim`, // Your LinkedIn account
   },
   icon: `content/assets/favi.ico`, // Add your favicon
   keywords: [`blog, lino, frontend, 프론트엔드, 개발자`],
