@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 
 import { rhythm } from '../utils/typography'
 import * as Lang from '../constants'
-import resume from '../../content/__about/resume_en.html'
+import resume from '../../content/__about/resume-en.html'
 
 export default ({ data }) => {
   // const resumes = data.allMarkdownRemark.edges
@@ -23,26 +23,26 @@ export default ({ data }) => {
         )}`,
       }}
     >
-      <div dangerouslySetInnerHTML={{ __html: resume }} />
+      <div dangerouslySetInnerHTML={{ __html: resume.html }} />
     </div>
   )
 }
 
-export const pageQuery = graphql`
-  query {
-    allMarkdownRemark(filter: { frontmatter: { category: { eq: null } } }) {
-      edges {
-        node {
-          id
-          excerpt(pruneLength: 160)
-          html
-          frontmatter {
-            title
-            date(formatString: "MMMM DD, YYYY")
-            lang
-          }
-        }
-      }
-    }
-  }
-`
+// export const pageQuery = graphql`
+//   query {
+//     allMarkdownRemark(filter: { frontmatter: { category: { eq: null } } }) {
+//       edges {
+//         node {
+//           id
+//           excerpt(pruneLength: 160)
+//           html
+//           frontmatter {
+//             title
+//             date(formatString: "MMMM DD, YYYY")
+//             lang
+//           }
+//         }
+//       }
+//     }
+//   }
+// `
