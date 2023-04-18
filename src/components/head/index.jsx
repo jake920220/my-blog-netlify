@@ -2,8 +2,8 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
-// import ogImg from '../../../content/assets/profile_bg_pink.jpg'
-import ogImg from '../../../content/assets/me_hello.png'
+import ogImg from '../../../content/assets/me_bg_img.png'
+// import ogImg from '../../../content/assets/me_hello.png'
 
 export function Head({ description, lang, meta, keywords, title }) {
   return (
