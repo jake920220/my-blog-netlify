@@ -48,6 +48,10 @@ export const downloadURLParser = (downloadURL) => {
 위와 같이 비즈니스 로직이 크게 얽혀 있지 않고 간단하게 동작하는 코드를 짜야할 때에는 
 ChatGPT에게 물어보면 사람이 직접 코딩하는 시간을 획기적으로 줄일 수 있다.
 
+심지어 ChatGPT는 query string이 없을 경우에 대한 예외처리와 `decodeURIComponent()` 를 통한 url의 변환까지 
+사람이 놓친 부분을 세세하게 신경 써 주었다. 
+
+
 ## 내가 작성한 코드 리팩토링
 
 ![ask for code refactoring to chatGPT](./images/ask.png)
