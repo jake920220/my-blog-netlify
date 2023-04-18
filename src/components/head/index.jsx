@@ -2,13 +2,14 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
-import ogImg from '../../../content/assets/profile_bg_pink.jpg'
+// import ogImg from '../../../content/assets/profile_bg_pink.jpg'
+import ogImg from '../../../content/assets/me_hello.png'
 
 export function Head({ description, lang, meta, keywords, title }) {
   return (
     <StaticQuery
       query={detailsQuery}
-      render={(data) => {
+      render={data => {
         const metaDescription =
           description || data.site.siteMetadata.description
         return (
@@ -30,8 +31,8 @@ export function Head({ description, lang, meta, keywords, title }) {
               {
                 property: `og:image`,
                 content: ogImg,
-              },~
-              {
+              },
+              ~{
                 property: `og:description`,
                 content: metaDescription,
               },
