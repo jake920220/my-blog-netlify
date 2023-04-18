@@ -1,6 +1,6 @@
 ---
 title: '개발자의 ChatGPT 사용 후기'
-date: 2023-04-18 13:55:32
+date: 2023-04-18 15:30:32
 category: tech
 draft: false
 ---
