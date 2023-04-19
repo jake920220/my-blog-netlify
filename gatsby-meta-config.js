@@ -1,9 +1,9 @@
 module.exports = {
-  title: `Lino's 기술블로그`,
-  description: `프론트엔드 개발자 김준현(Lino)의 개발 블로그입니다.`,
-  author: `Junhyun Kim`,
+  title: `Lino의 기술블로그`,
+  description: `프론트엔드 개발자 Lino의 개발 블로그입니다.`,
+  author: `Lino Kim`,
   introduction: `언제나 왜 Why를 명확하게, 마작을 좋아하는 개발자`,
-  siteUrl: `https://blog-lino.dev`, // Your blog site url
+  siteUrl: `https://blog.linokim.dev`, // Your blog site url
   naverSiteVerification: `335c2fb87ccff7d8249f5f9d59a2564a0bae112b`,
   social: {
     twitter: ``, // Your Twitter account

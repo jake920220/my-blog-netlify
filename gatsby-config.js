@@ -96,8 +96,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-robots-txt`,
       options: {
-        host: `https://blog-lino.dev`,
-        sitemap: `https://blog-lino.dev/sitemap.xml`,
+        host: `https://blog.linokim.dev`,
+        sitemap: `https://blog.linokim.dev/sitemap.xml`,
         policy: [{userAgent: '*', allow: '/'}]
       }
     },
