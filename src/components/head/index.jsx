@@ -41,6 +41,14 @@ export function Head({ description, lang, meta, keywords, title }) {
                 content: `website`,
               },
               {
+                property: `og:url`,
+                content: `https://blog.linokim.dev/`,
+              },
+              {
+                property: `og:site_name`,
+                content: `Lino의 기술블로그`,
+              },
+              {
                 name: `twitter:card`,
                 content: `summary_large_image`,
               },
