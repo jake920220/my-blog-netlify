@@ -1,5 +1,5 @@
 ---
-title: 'Template literals과 Tagged template literals!'
+title: 'Template literals과 Tagged template literals'
 date: '2020-11-22 00:46:00'
 category: 'javascript'
 draft: false
