@@ -2,7 +2,7 @@
 title: '오픈소스 라이선스에 대하여'
 date: 2023-04-24 12:21:13
 category: 'development'
-draft: true
+draft: false
 ---
 
 오늘은 오픈소스의 라이선스에 대해서 포스팅을 해보고자 한다.
