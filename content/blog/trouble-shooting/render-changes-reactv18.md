@@ -1,7 +1,7 @@
 ---
 title: '리액트 버전 18 이후의 Render 변경점'
-date: 2023-04-18 15:30:32
-category: tech
+date: 2023-04-26 16:40:32
+category: trouble-shooting
 draft: false
 ---
 
