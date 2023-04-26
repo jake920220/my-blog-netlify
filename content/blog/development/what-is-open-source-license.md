@@ -1,6 +1,6 @@
 ---
 title: '오픈소스 라이선스에 대하여'
-date: 2023-04-24 12:21:13
+date: 2023-04-25 12:21:13
 category: 'development'
 draft: false
 ---
