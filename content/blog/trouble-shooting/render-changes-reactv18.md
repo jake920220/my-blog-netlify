@@ -5,8 +5,6 @@ category: trouble-shooting
 draft: false
 ---
 
-# 리액트 버전 18 이후의 render 변경점
-
 react로 프로젝트를 생성하던 중 세팅을 다 마치고 localhost 에서 돌렸을 때 다음과 같은 에러가 콘솔에 나타났다.
 
 ![react18 render change error](./images/render-in-ver-18-1.png)
