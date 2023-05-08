@@ -80,7 +80,7 @@ draft: false
 .
 
 ![](../tech/images/ai_kang.jpeg)
->> 요 놈이 꼭 때려야 말을 들어
+> 요 놈이 꼭 때려야 말을 들어
 
 <br>
 
